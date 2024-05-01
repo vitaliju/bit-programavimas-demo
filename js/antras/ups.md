@@ -2,7 +2,7 @@
 
 md. Markdown file
 
-## Antro tipo antrste
+## Antro tipo antraste
 
 Kazkoks tekstas.
 
